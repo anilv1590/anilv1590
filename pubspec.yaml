@@ -1,0 +1,46 @@
+name: test1
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/test1/assets/images/rectangle9143.png
+    - packages/test1/assets/images/vector.svg
+    - packages/test1/assets/images/group.svg
+    - packages/test1/assets/images/googledocs1.svg
+    - packages/test1/assets/images/rectangle9145.png
+    - packages/test1/assets/images/calendar61.svg
+    - packages/test1/assets/images/rectangle9146.png
+    - packages/test1/assets/images/cellularconnection.png
+    - packages/test1/assets/images/wifi.png
+    - packages/test1/assets/images/capacity.png
+    - packages/test1/assets/images/cap.svg
+    - packages/test1/assets/images/rectangle9116.png
+    - packages/test1/assets/images/screenshot20220214at11201.png
+    - packages/test1/assets/images/rectangle9121.png
+    - packages/test1/assets/images/rectangle3212.png
+    - packages/test1/assets/images/rectangle9140.png
+    - packages/test1/assets/images/fill1.svg
+    - packages/test1/assets/images/ellipse3569.png
+    - packages/test1/assets/images/rectangle9132.png
+    - packages/test1/assets/images/rectangle9135.png
+    - packages/test1/assets/images/rectangle9136.png
+    - packages/test1/assets/images/rectangle9133.png
+    - packages/test1/assets/images/rectangle9137.png
+    - packages/test1/assets/images/rectangle9134.png
+    - packages/test1/assets/images/ellipse35.png
+    - packages/test1/assets/images/group27697.svg
